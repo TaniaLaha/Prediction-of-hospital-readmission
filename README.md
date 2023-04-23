@@ -1,4 +1,13 @@
 # Prediction-of-hospital-readmission
-This case study helps to predict the chance of any patient being readmitted in hospital based on health condition.
-Some important health metrics are given in raw data which are analyzed and manipulated as per requiremnt to build the final model.
-Used logistic regression to predict the output and received a decent accuracy on test data.
+
+__Problem Statement__:
+Impact of Medication for Lifestyle Diseases on Hospital Readmission –
+Management  of lifestyle diseases in hospitalized patients has a significant bearing on outcome, in terms of both morbidity and mortality.
+
+__Objective__:
+The main objective for this problem is to predict whether a patient is likely to be readmitted to hospital based on the previous details of the patient.
+
+__Solution__
+‘readmitted’  is the target variable  with two labels ‘0’ and ‘1’ which denotes ‘not readmitted’ and ‘readmitted’ respectively.
+
+
