@@ -10,4 +10,18 @@ The main objective for this problem is to predict whether a patient is likely to
 __Solution__
 ‘readmitted’  is the target variable  with two labels ‘0’ and ‘1’ which denotes ‘not readmitted’ and ‘readmitted’ respectively.
 
+* Exploratory Data Analysis - 
+* 1) For continuous columns I have performed missing value check and found that ‘race’, ‘weight’,’medical_specialty’, ‘diag_1’,’diag_2’ , ‘diag_3’ , ‘diag_4’
+![image](https://user-images.githubusercontent.com/84698201/233848390-6aa4f189-575d-48a8-8b05-81ef3678bdfb.png)
+
+
+
+
+
+
+
+
+
+
+
 
