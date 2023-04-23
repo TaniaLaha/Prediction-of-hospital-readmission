@@ -12,7 +12,10 @@ __Solution__
 
 * Exploratory Data Analysis - 
 * 1) For continuous columns I have performed missing value check and found that ‘race’, ‘weight’,’medical_specialty’, ‘diag_1’,’diag_2’ , ‘diag_3’ , ‘diag_4’
-![image](https://user-images.githubusercontent.com/84698201/233848390-6aa4f189-575d-48a8-8b05-81ef3678bdfb.png)
+  2) Univariate Analysis - From histogram plots, it is quite evident that encounter_id', 'patient_id', 'num_lab_procedures', 'num_medications', 'number_outpatient', 'number_emergency’ are highly skewed continuous columns hence they need skewness treatment.
+
+  !
+
 
 
 
